@@ -1,0 +1,23 @@
+{
+    "name": "riesjart/php-helpers",
+    "description": "PHP helpers",
+    "keywords": [
+        "php",
+        "helpers"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Richard van Baarsen",
+            "email": "richardvanbaarsen@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
