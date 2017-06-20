@@ -100,7 +100,7 @@ if ( ! function_exists('no_limits')) {
 }
 
 
-if ( ! function_exists('no_limits')) {
+if ( ! function_exists('usesTrait')) {
 
     /**
      * @param mixed $class
